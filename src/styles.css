@@ -1,0 +1,62 @@
+.App {
+  font-family: "Patua One", cursive;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 15px;
+  /* t r b l */
+  padding: 0px 0px 100px 0px;
+  background-color: #f2e394;
+  margin: 20px 20px 0px 20px;
+}
+
+body {
+  background-color: white;
+}
+
+button {
+  background-color: #f2c84b;
+  border-radius: 25px;
+  width: 40px;
+}
+
+.search-bar {
+  width: 200px;
+  border-radius: 20px;
+  height: 25px;
+  font-family: "Patua One", cursive;
+}
+
+.enlace {
+  text-decoration: none;
+  color: #983c2d;
+}
+
+.movie-results {
+  border: 2px solid black;
+  border-radius: 15px;
+  margin: 0px 20px 10px 20px;
+  padding-bottom: 20px;
+  background-color: #f2c84b;
+}
+
+.single-movie {
+  background-color: #f2c84b;
+  border: 2px solid black;
+  border-radius: 15px;
+  padding: 0px 20px 0px 20px;
+  color: black;
+  text-align: center;
+  font-family: "Patua One", cursive;
+}
+
+.single-movie h3 {
+  color: #983c2d;
+}
+
+.custom-select {
+  border-radius: 10px;
+  width: 120px;
+  padding-left: 5px;
+  border: 2px solid black;
+  font-family: "Patua One", cursive;
+}
